@@ -1,0 +1,41 @@
+html{                         /* 余白指定 */
+  background-color: darkkhaki;     /* 背景色指定 */
+  background-size: contain;
+}
+
+.bg-img {
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 200px;
+}
+
+.meigen-btn {
+  display: block;
+  background-color: darkseagreen;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 50px;
+  width: 200px;
+  height: 60px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 60px;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 60px;
+}
+
+.maxim-text {
+  text-align: center;
+  color: azure;
+  letter-spacing: 0.7em;
+}
+
+.auther-text {
+  font-size: 1.2em;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.meigen-text {
+  font-style: italic;
+  line-height: 2.7;
+}
